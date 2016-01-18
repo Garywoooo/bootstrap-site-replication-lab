@@ -1,0 +1,91 @@
+.container-fluid {
+  background: white;
+  padding: 5px;
+}
+
+.right, .left {
+  height: 500px;
+}
+
+.wrapper {
+  background: white;
+}
+
+.unicorn {
+  height: 500px;
+  background-image: url('http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2014/08/unicorn.png');
+  background-repeat: no-repeat;
+  background-size: 700px 510px;
+  background-position: center;
+  padding: 0px, 0px, 0px;
+
+}
+
+.unicorn h2{
+  color: white;
+  -webkit-font-smoothing: antialiased;
+ /* vertical-align: baseline;*/
+
+}
+
+.incognito {
+  height: 245px;
+  background-image: url('http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/01/Incognito.jpg');
+  background-repeat: no-repeat;
+  background-size:720px 250px;
+  background-position: center;
+}
+.incognito h3{
+  color:white;
+  -webkit-font-smoothing: antialiased;
+}
+
+.shutterstock {
+  height: 252px;
+  background-image: url('http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/01/shutterstock_306793247.jpg');
+  background-repeat: no-repeat;
+  background-size: 370px 250px;
+  background-position: center;
+}
+.shutterstock h4{
+  color:white;
+   -webkit-font-smoothing: antialiased;
+}
+
+.googlecardboard {
+  height: 252px;
+  background-image: url('http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2014/12/1210_googlecardboard.jpg');
+  background-repeat: no-repeat;
+  background-size: 370px 250px;
+  background-position: center;
+}
+
+.googlecardboard h4{
+   -webkit-font-smoothing: antialiased;
+  color:white;
+}
+
+
+.dropdown{
+
+  background-color: #ff4020;
+    height: 48px;
+    padding: 15px 2em 0 1em;
+    position: relative;
+    z-index: 2;
+    font-size: 18px;
+
+}
+
+.dropdown-toggle{
+  padding-bottom: 5px;
+
+}
+
+.option{
+  padding: 10px 2em 0 1em;
+}
+
+.search{
+  padding: 10px 2em 0 1em;
+}
